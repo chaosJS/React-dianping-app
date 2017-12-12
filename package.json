@@ -8,7 +8,7 @@
     "mock": "node --harmony ./mock/server.js",
     "build": "rm -rf ./build && NODE_ENV=production webpack --config ./webpack.production.config.js --progress --colors"
   },
-  "author": "",
+  "author": "chaos",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^6.4.0",
